@@ -42,3 +42,17 @@ To claim this, I am signing this object:
   "seqno": 44,
   "tag": "signature"
 }
+```
+
+with the key [ASDfC6NPd7DW-rhG1gfm7UCsPqfl37D_pGTQGz1FxRqewwo](https://keybase.io/th3l0b3), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3wujT3ew1vq4RtYH5u1ArD6n5d+w/6Rk0Bs9RcUansMKp3BheWxvYWTESpcCLMQghvaIAVfT7Fkk67vQ48m50S4spaNpw4PK3yyp9yzOPJrEINfGs6AZhatIdIhycwyeNpCJ5wqJWFiNLVs8A5MUEyzYAgHCo3NpZ8RAJfJgxWnJsjVKZ37EjWj8Uk07iqcKASPgZALbjkwmmJfC93UJkc2/avzsPmnPmUvhsrxGGbzCqpwTMnn3fQ8iCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG3S0JGQmaFBneBfOOQ7zS4lpkd7wB35y9Ezj2UJIwbIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/th3l0b3
